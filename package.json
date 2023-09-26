@@ -1,9 +1,11 @@
 {
   "name": "3d_portfolio",
+  "homepage": "https://samixtures.github.io/3dPortfolio/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "predeploy": "npm run build","deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",

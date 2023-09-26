@@ -46,7 +46,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary tex-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with expereince in Javascript and Python, and expertise in frameworks like react, Node.js, and Express.js. I'm a quick learner and can collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
+        I'm a skilled software developer with expereince in Javascript and Python, and expertise in frameworks such as React, Express.js, and Angular. I'm a quick learner and can collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
       </motion.p>
       
       <div className='mt-20 flex flex-wrap gap-10'>

@@ -28,6 +28,9 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import theCoderSchool from "./company/theCoderSchool.png";
+import ACM from "./company/ACM.png";
+import IEHP from "./company/IEHP.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -65,4 +68,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  theCoderSchool,
+  ACM,
+  IEHP
 };
